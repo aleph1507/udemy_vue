@@ -224,6 +224,317 @@
 				<vlc:id>31</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/03%20Using%20Conditionals%20and%20Rendering%20Lists/033%20Module%20Introduction.mp4</location>
+			<duration>49046</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/03%20Using%20Conditionals%20and%20Rendering%20Lists/034%20Conditional%20Rendering%20with%20v-if.mp4</location>
+			<duration>218091</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/03%20Using%20Conditionals%20and%20Rendering%20Lists/035%20v-else-if%20in%20Vue.js%202.1.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/03%20Using%20Conditionals%20and%20Rendering%20Lists/036%20Using%20an%20Alternative%20v-if%20Syntax.mp4</location>
+			<duration>96790</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/03%20Using%20Conditionals%20and%20Rendering%20Lists/037%20Dont%20Detach%20it%20with%20v-show.mp4</location>
+			<duration>103403</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/03%20Using%20Conditionals%20and%20Rendering%20Lists/038%20Rendering%20Lists%20with%20v-for.mp4</location>
+			<duration>146176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/03%20Using%20Conditionals%20and%20Rendering%20Lists/039%20Getting%20the%20Current%20Index.mp4</location>
+			<duration>111254</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/03%20Using%20Conditionals%20and%20Rendering%20Lists/040%20Using%20an%20Alternative%20v-for%20Syntax.mp4</location>
+			<duration>70848</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/03%20Using%20Conditionals%20and%20Rendering%20Lists/041%20Looping%20through%20Objects.mp4</location>
+			<duration>284544</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/03%20Using%20Conditionals%20and%20Rendering%20Lists/042%20Looping%20through%20a%20List%20of%20Numbers.mp4</location>
+			<duration>57302</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/03%20Using%20Conditionals%20and%20Rendering%20Lists/043%20Keeping%20Track%20of%20Elements%20when%20using%20v-for.mp4</location>
+			<duration>248640</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/03%20Using%20Conditionals%20and%20Rendering%20Lists/044%20Module%20Wrap%20Up.mp4</location>
+			<duration>51755</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/03%20Using%20Conditionals%20and%20Rendering%20Lists/045%20Module%20Resources%20%20Useful%20Links.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/04%20First%20Course%20Project%20-%20The%20Monster%20Slayer/046%20Introduction%20%20Challenge.mp4</location>
+			<duration>174571</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/04%20First%20Course%20Project%20-%20The%20Monster%20Slayer/047%20Setting%20up%20the%20Course%20Project.mp4</location>
+			<duration>157888</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/04%20First%20Course%20Project%20-%20The%20Monster%20Slayer/048%20Creating%20the%20Vue%20Instance%20and%20Styling%20the%20Healthbars.mp4</location>
+			<duration>316822</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/04%20First%20Course%20Project%20-%20The%20Monster%20Slayer/049%20Showing%20the%20Player%20Controls%20Conditionally.mp4</location>
+			<duration>122326</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/04%20First%20Course%20Project%20-%20The%20Monster%20Slayer/050%20Implementing%20a%20Start%20Game%20Method.mp4</location>
+			<duration>113344</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/04%20First%20Course%20Project%20-%20The%20Monster%20Slayer/051%20Implementing%20a%20Attack%20Method.mp4</location>
+			<duration>483392</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/04%20First%20Course%20Project%20-%20The%20Monster%20Slayer/052%20Write%20better%20Code%20-%20Time%20for%20Refactoring.mp4</location>
+			<duration>292864</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/04%20First%20Course%20Project%20-%20The%20Monster%20Slayer/053%20Implementing%20a%20Special%20Attack.mp4</location>
+			<duration>131776</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/04%20First%20Course%20Project%20-%20The%20Monster%20Slayer/054%20Implementing%20a%20Heal%20Method.mp4</location>
+			<duration>141419</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/04%20First%20Course%20Project%20-%20The%20Monster%20Slayer/055%20Finishing%20the%20Action%20Buttons.mp4</location>
+			<duration>59606</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/04%20First%20Course%20Project%20-%20The%20Monster%20Slayer/056%20Creating%20an%20Action%20Log.mp4</location>
+			<duration>161302</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/04%20First%20Course%20Project%20-%20The%20Monster%20Slayer/057%20Printing%20the%20Log%20v-for.mp4</location>
+			<duration>140032</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/04%20First%20Course%20Project%20-%20The%20Monster%20Slayer/058%20Finishing%20the%20Log.mp4</location>
+			<duration>117462</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/04%20First%20Course%20Project%20-%20The%20Monster%20Slayer/059%20Styling%20the%20Log%20Conditionally.mp4</location>
+			<duration>104384</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/04%20First%20Course%20Project%20-%20The%20Monster%20Slayer/060%20Wrap%20Up.mp4</location>
+			<duration>88875</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/04%20First%20Course%20Project%20-%20The%20Monster%20Slayer/061%20Full%20Application%20Code.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/05%20Understanding%20the%20VueJS%20Instance/062%20Module%20Introduction.mp4</location>
+			<duration>64640</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/05%20Understanding%20the%20VueJS%20Instance/063%20Some%20Basics%20about%20the%20VueJS%20Instance.mp4</location>
+			<duration>178518</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/05%20Understanding%20the%20VueJS%20Instance/064%20Using%20Multiple%20Vue%20Instances.mp4</location>
+			<duration>172267</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/05%20Understanding%20the%20VueJS%20Instance/065%20Accessing%20the%20Vue%20Instance%20from%20Outside.mp4</location>
+			<duration>209856</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/05%20Understanding%20the%20VueJS%20Instance/066%20How%20VueJS%20manages%20your%20Data%20and%20Methods.mp4</location>
+			<duration>241942</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/05%20Understanding%20the%20VueJS%20Instance/067%20A%20Closer%20Look%20at%20el%20and%20data.mp4</location>
+			<duration>295488</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/05%20Understanding%20the%20VueJS%20Instance/068%20Placing%20refs%20and%20Using%20them%20on%20your%20Templates.mp4</location>
+			<duration>348160</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/05%20Understanding%20the%20VueJS%20Instance/069%20Where%20to%20learn%20more%20about%20the%20Vue%20API.mp4</location>
+			<duration>58304</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/05%20Understanding%20the%20VueJS%20Instance/070%20Mounting%20a%20Template.mp4</location>
+			<duration>402795</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/05%20Understanding%20the%20VueJS%20Instance/071%20Using%20Components.mp4</location>
+			<duration>296790</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/05%20Understanding%20the%20VueJS%20Instance/072%20Limitations%20of%20some%20Templates.mp4</location>
+			<duration>155328</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/05%20Understanding%20the%20VueJS%20Instance/073%20How%20VueJS%20Updates%20the%20DOM.mp4</location>
+			<duration>205184</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/05%20Understanding%20the%20VueJS%20Instance/074%20The%20VueJS%20Instance%20Lifecycle.mp4</location>
+			<duration>192192</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/05%20Understanding%20the%20VueJS%20Instance/075%20The%20VueJS%20Instance%20Lifecycle%20in%20Practice.mp4</location>
+			<duration>339478</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/05%20Understanding%20the%20VueJS%20Instance/076%20Module%20Wrap%20Up.mp4</location>
+			<duration>54998</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/05%20Understanding%20the%20VueJS%20Instance/077%20Module%20Resources%20%20Useful%20Links.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
@@ -258,5 +569,50 @@
 		<vlc:item tid="29"/>
 		<vlc:item tid="30"/>
 		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+		<vlc:item tid="65"/>
+		<vlc:item tid="66"/>
+		<vlc:item tid="67"/>
+		<vlc:item tid="68"/>
+		<vlc:item tid="69"/>
+		<vlc:item tid="70"/>
+		<vlc:item tid="71"/>
+		<vlc:item tid="72"/>
+		<vlc:item tid="73"/>
+		<vlc:item tid="74"/>
+		<vlc:item tid="75"/>
+		<vlc:item tid="76"/>
 	</extension>
 </playlist>
