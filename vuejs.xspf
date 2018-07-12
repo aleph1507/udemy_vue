@@ -535,6 +535,177 @@
 				<vlc:id>76</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/06%20Moving%20to%20a%20Real%20Development%20Workflow%20with%20Webpack%20and%20Vue%20CLI/078%20Module%20Introduction.mp4</location>
+			<duration>93995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/06%20Moving%20to%20a%20Real%20Development%20Workflow%20with%20Webpack%20and%20Vue%20CLI/079%20Why%20do%20we%20need%20a%20Development%20Server.mp4</location>
+			<duration>167275</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/06%20Moving%20to%20a%20Real%20Development%20Workflow%20with%20Webpack%20and%20Vue%20CLI/080%20What%20does%20Development%20Workflow%20mean.mp4</location>
+			<duration>231531</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/06%20Moving%20to%20a%20Real%20Development%20Workflow%20with%20Webpack%20and%20Vue%20CLI/081%20Using%20the%20Vue%20CLI%20to%20create%20Projects.mp4</location>
+			<duration>155691</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/06%20Moving%20to%20a%20Real%20Development%20Workflow%20with%20Webpack%20and%20Vue%20CLI/082%20Installing%20the%20Vue%20CLI%20and%20Creating%20a%20new%20Project.mp4</location>
+			<duration>258219</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/06%20Moving%20to%20a%20Real%20Development%20Workflow%20with%20Webpack%20and%20Vue%20CLI/083%20An%20Overview%20over%20the%20Webpack%20Template%20Folder%20Structure.mp4</location>
+			<duration>220416</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/06%20Moving%20to%20a%20Real%20Development%20Workflow%20with%20Webpack%20and%20Vue%20CLI/084%20Understanding%20.vue%20Files.mp4</location>
+			<duration>406038</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/06%20Moving%20to%20a%20Real%20Development%20Workflow%20with%20Webpack%20and%20Vue%20CLI/085%20Understanding%20the%20Object%20in%20the%20Vue%20File.mp4</location>
+			<duration>71382</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/06%20Moving%20to%20a%20Real%20Development%20Workflow%20with%20Webpack%20and%20Vue%20CLI/086%20How%20to%20Build%20your%20App%20for%20Production.mp4</location>
+			<duration>49856</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/06%20Moving%20to%20a%20Real%20Development%20Workflow%20with%20Webpack%20and%20Vue%20CLI/087%20Module%20Wrap%20Up.mp4</location>
+			<duration>71232</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/06%20Moving%20to%20a%20Real%20Development%20Workflow%20with%20Webpack%20and%20Vue%20CLI/088%20More%20about%20.vue%20Files%20and%20the%20CLI.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/06%20Moving%20to%20a%20Real%20Development%20Workflow%20with%20Webpack%20and%20Vue%20CLI/089%20Debugging%20VueJS%20Projects.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/07%20An%20Introduction%20to%20Components/090%20Module%20Introduction.mp4</location>
+			<duration>64939</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/07%20An%20Introduction%20to%20Components/091%20An%20Introduction%20to%20Components.mp4</location>
+			<duration>296342</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/07%20An%20Introduction%20to%20Components/092%20Storing%20Data%20in%20Components%20with%20the%20Data%20Method.mp4</location>
+			<duration>244203</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/07%20An%20Introduction%20to%20Components/093%20Registering%20Components%20Locally%20and%20Globally.mp4</location>
+			<duration>170304</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/07%20An%20Introduction%20to%20Components/094%20The%20Root%20Component%20in%20the%20App.vue%20File.mp4</location>
+			<duration>201878</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/07%20An%20Introduction%20to%20Components/095%20Creating%20a%20Component.mp4</location>
+			<duration>264768</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/07%20An%20Introduction%20to%20Components/096%20Using%20Components.mp4</location>
+			<duration>332907</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/07%20An%20Introduction%20to%20Components/097%20Moving%20to%20a%20Better%20Folder%20Structure.mp4</location>
+			<duration>163158</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/07%20An%20Introduction%20to%20Components/098%20Alternative%20Folder%20Structures.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/07%20An%20Introduction%20to%20Components/099%20How%20to%20Name%20your%20Component%20Tags%20Selectors.mp4</location>
+			<duration>271403</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/07%20An%20Introduction%20to%20Components/100%20Scoping%20Component%20Styles.mp4</location>
+			<duration>305110</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/07%20An%20Introduction%20to%20Components/101%20Module%20Wrap%20Up.mp4</location>
+			<duration>50838</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/07%20An%20Introduction%20to%20Components/102%20Module%20Resources%20%20Useful%20Links.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
@@ -614,5 +785,30 @@
 		<vlc:item tid="74"/>
 		<vlc:item tid="75"/>
 		<vlc:item tid="76"/>
+		<vlc:item tid="77"/>
+		<vlc:item tid="78"/>
+		<vlc:item tid="79"/>
+		<vlc:item tid="80"/>
+		<vlc:item tid="81"/>
+		<vlc:item tid="82"/>
+		<vlc:item tid="83"/>
+		<vlc:item tid="84"/>
+		<vlc:item tid="85"/>
+		<vlc:item tid="86"/>
+		<vlc:item tid="87"/>
+		<vlc:item tid="88"/>
+		<vlc:item tid="89"/>
+		<vlc:item tid="90"/>
+		<vlc:item tid="91"/>
+		<vlc:item tid="92"/>
+		<vlc:item tid="93"/>
+		<vlc:item tid="94"/>
+		<vlc:item tid="95"/>
+		<vlc:item tid="96"/>
+		<vlc:item tid="97"/>
+		<vlc:item tid="98"/>
+		<vlc:item tid="99"/>
+		<vlc:item tid="100"/>
+		<vlc:item tid="101"/>
 	</extension>
 </playlist>
