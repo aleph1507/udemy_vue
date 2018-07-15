@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Monster Slayer</title>
+    <script src="../../../vue.js"></script>
+</head>
+<body>
+  <div id="app">
+    <my-cmp></my-cmp>
+    <hr>
+    <my-cmp></my-cmp>
+  </div>
+
+  <div id="app2">
+    <my-cmp2></my-cmp2>
+    <hr>
+    <my-cmp2></my-cmp2>
+  </div>
+<script>
+  // var data = { status: 'Critical' };
+
+  // Vue.component('my-cmp', {
+  var cmp = {
+    // data: function() {
+    //   return data;
+    // },
+    data: function(){
+      return {
+        status: 'Critical'
+      }
+    },
+    template: '<p>Server Status: {{status}} (<button @click="changeStatus">Change</button>)</p>',
+    methods: {
+      changeStatus: function() {
+        this.status = this.status == 'Normal' ? 'Critical' : 'Normal';
+      }
+    }
+  };
+  var vm1 = new Vue({
+    el: '#app',
+    components: {
+      'my-cmp': cmp
+    }
+  });
+
+  var vm2 = new Vue({
+      el: '#app2',
+      components: {
+        'my-cmp2': cmp
+      }
+  });
+</script>
+</body>
+</html>

@@ -706,6 +706,277 @@
 				<vlc:id>101</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/08%20Communicating%20between%20Components/103%20Module%20Introduction.mp4</location>
+			<duration>46144</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/08%20Communicating%20between%20Components/104%20Communication%20Problems.mp4</location>
+			<duration>172886</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/08%20Communicating%20between%20Components/105%20Using%20Props%20for%20Parent%20%20Child%20Communication.mp4</location>
+			<duration>190336</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/08%20Communicating%20between%20Components/106%20Naming%20props.mp4</location>
+			<duration>70144</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/08%20Communicating%20between%20Components/107%20Using%20props%20in%20the%20Child%20Component.mp4</location>
+			<duration>88299</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/08%20Communicating%20between%20Components/108%20Validating%20props.mp4</location>
+			<duration>297067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/08%20Communicating%20between%20Components/109%20Using%20Custom%20Events%20for%20Child%20%20Parent%20Communication.mp4</location>
+			<duration>355435</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/08%20Communicating%20between%20Components/110%20Understanding%20Unidirectional%20Data%20Flow.mp4</location>
+			<duration>67478</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/08%20Communicating%20between%20Components/111%20Communicating%20with%20Callback%20Functions.mp4</location>
+			<duration>143488</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/08%20Communicating%20between%20Components/112%20Communication%20between%20Sibling%20Components.mp4</location>
+			<duration>385131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/08%20Communicating%20between%20Components/113%20Using%20an%20Event%20Bus%20for%20Communication.mp4</location>
+			<duration>332075</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/08%20Communicating%20between%20Components/114%20Centralizing%20Code%20in%20an%20Event%20Bus.mp4</location>
+			<duration>134870</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/08%20Communicating%20between%20Components/115%20Wrap%20Up.mp4</location>
+			<duration>41067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/09%20Advanced%20Component%20Usage/117%20Module%20Introduction.mp4</location>
+			<duration>38550</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/09%20Advanced%20Component%20Usage/118%20Setting%20up%20the%20Module%20Project.mp4</location>
+			<duration>180843</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/09%20Advanced%20Component%20Usage/119%20Passing%20Content%20-%20The%20Suboptimal%20Solution.mp4</location>
+			<duration>139286</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/09%20Advanced%20Component%20Usage/120%20Passing%20Content%20with%20Slots.mp4</location>
+			<duration>42944</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/09%20Advanced%20Component%20Usage/121%20How%20Slot%20Content%20gets%20Compiled%20and%20Styled.mp4</location>
+			<duration>183062</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/09%20Advanced%20Component%20Usage/122%20Using%20Multiple%20Slots%20Named%20Slots.mp4</location>
+			<duration>170048</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/09%20Advanced%20Component%20Usage/123%20Default%20Slots%20and%20Slot%20Defaults.mp4</location>
+			<duration>121622</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/09%20Advanced%20Component%20Usage/124%20A%20Summary%20on%20Slots.mp4</location>
+			<duration>45440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/09%20Advanced%20Component%20Usage/125%20Switching%20Multiple%20Components%20with%20Dynamic%20Components.mp4</location>
+			<duration>331478</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/09%20Advanced%20Component%20Usage/126%20Understanding%20Dynamic%20Component%20Behavior.mp4</location>
+			<duration>127424</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/09%20Advanced%20Component%20Usage/127%20Keeping%20Dynamic%20Components%20Alive.mp4</location>
+			<duration>58902</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/09%20Advanced%20Component%20Usage/128%20Dynamic%20Component%20Lifecycle%20Hooks.mp4</location>
+			<duration>78038</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>126</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/09%20Advanced%20Component%20Usage/129%20Wrap%20Up.mp4</location>
+			<duration>71168</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>127</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/09%20Advanced%20Component%20Usage/130%20Module%20Resources%20%20Helpful%20Links.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>128</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/10%20Second%20Course%20Project%20-%20Wonderful%20Quotes/131%20Module%20Introduction.mp4</location>
+			<duration>96107</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>129</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/10%20Second%20Course%20Project%20-%20Wonderful%20Quotes/132%20Setting%20up%20the%20Project.mp4</location>
+			<duration>82155</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>130</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/10%20Second%20Course%20Project%20-%20Wonderful%20Quotes/133%20Initializing%20the%20Application.mp4</location>
+			<duration>88384</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>131</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/10%20Second%20Course%20Project%20-%20Wonderful%20Quotes/134%20Creating%20the%20Application%20Components.mp4</location>
+			<duration>244203</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>132</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/10%20Second%20Course%20Project%20-%20Wonderful%20Quotes/135%20Passing%20Data%20with%20Props%20and%20Slots.mp4</location>
+			<duration>133376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>133</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/10%20Second%20Course%20Project%20-%20Wonderful%20Quotes/136%20Allowing%20Users%20to%20Create%20Quotes%20with%20a%20NewQuote%20Component.mp4</location>
+			<duration>248427</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>134</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/10%20Second%20Course%20Project%20-%20Wonderful%20Quotes/137%20Adding%20Quotes%20with%20Custom%20Events.mp4</location>
+			<duration>214550</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>135</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/10%20Second%20Course%20Project%20-%20Wonderful%20Quotes/138%20Adding%20a%20Info%20Box.mp4</location>
+			<duration>66198</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>136</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/10%20Second%20Course%20Project%20-%20Wonderful%20Quotes/139%20Allowing%20for%20Quote%20Deletion.mp4</location>
+			<duration>220630</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>137</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/10%20Second%20Course%20Project%20-%20Wonderful%20Quotes/140%20Controlling%20Quotes%20with%20a%20Progress%20Bar.mp4</location>
+			<duration>232107</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>138</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/10%20Second%20Course%20Project%20-%20Wonderful%20Quotes/141%20Finishing%20Touches%20and%20State%20Management.mp4</location>
+			<duration>133312</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>139</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/10%20Second%20Course%20Project%20-%20Wonderful%20Quotes/142%20Module%20Resources.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>140</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
@@ -810,5 +1081,44 @@
 		<vlc:item tid="99"/>
 		<vlc:item tid="100"/>
 		<vlc:item tid="101"/>
+		<vlc:item tid="102"/>
+		<vlc:item tid="103"/>
+		<vlc:item tid="104"/>
+		<vlc:item tid="105"/>
+		<vlc:item tid="106"/>
+		<vlc:item tid="107"/>
+		<vlc:item tid="108"/>
+		<vlc:item tid="109"/>
+		<vlc:item tid="110"/>
+		<vlc:item tid="111"/>
+		<vlc:item tid="112"/>
+		<vlc:item tid="113"/>
+		<vlc:item tid="114"/>
+		<vlc:item tid="115"/>
+		<vlc:item tid="116"/>
+		<vlc:item tid="117"/>
+		<vlc:item tid="118"/>
+		<vlc:item tid="119"/>
+		<vlc:item tid="120"/>
+		<vlc:item tid="121"/>
+		<vlc:item tid="122"/>
+		<vlc:item tid="123"/>
+		<vlc:item tid="124"/>
+		<vlc:item tid="125"/>
+		<vlc:item tid="126"/>
+		<vlc:item tid="127"/>
+		<vlc:item tid="128"/>
+		<vlc:item tid="129"/>
+		<vlc:item tid="130"/>
+		<vlc:item tid="131"/>
+		<vlc:item tid="132"/>
+		<vlc:item tid="133"/>
+		<vlc:item tid="134"/>
+		<vlc:item tid="135"/>
+		<vlc:item tid="136"/>
+		<vlc:item tid="137"/>
+		<vlc:item tid="138"/>
+		<vlc:item tid="139"/>
+		<vlc:item tid="140"/>
 	</extension>
 </playlist>
