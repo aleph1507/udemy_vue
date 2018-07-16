@@ -977,6 +977,262 @@
 				<vlc:id>140</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/11%20Handling%20User%20Input%20with%20Forms/143%20Module%20Introduction.mp4</location>
+			<duration>54187</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>141</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/11%20Handling%20User%20Input%20with%20Forms/144%20A%20Basic%20input%20Form%20Binding.mp4</location>
+			<duration>226304</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>142</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/11%20Handling%20User%20Input%20with%20Forms/145%20Grouping%20Data%20and%20Pre-Populating%20Inputs.mp4</location>
+			<duration>162368</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>143</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/11%20Handling%20User%20Input%20with%20Forms/146%20Modifying%20User%20Input%20with%20Input%20Modifiers.mp4</location>
+			<duration>178816</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>144</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/11%20Handling%20User%20Input%20with%20Forms/147%20Binding%20textarea%20and%20Saving%20Line%20Breaks.mp4</location>
+			<duration>173099</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>145</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/11%20Handling%20User%20Input%20with%20Forms/148%20Using%20Checkboxes%20and%20Saving%20Data%20in%20Arrays.mp4</location>
+			<duration>245504</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>146</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/11%20Handling%20User%20Input%20with%20Forms/149%20Using%20Radio%20Buttons.mp4</location>
+			<duration>150891</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>147</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/11%20Handling%20User%20Input%20with%20Forms/150%20Handling%20Dropdowns%20with%20select%20and%20option.mp4</location>
+			<duration>309846</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>148</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/11%20Handling%20User%20Input%20with%20Forms/151%20What%20v-model%20does%20and%20How%20to%20Create%20a%20Custom%20Control.mp4</location>
+			<duration>169835</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>149</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/11%20Handling%20User%20Input%20with%20Forms/152%20Creating%20a%20Custom%20Control%20Input.mp4</location>
+			<duration>313408</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>150</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/11%20Handling%20User%20Input%20with%20Forms/153%20Submitting%20a%20Form.mp4</location>
+			<duration>128022</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>151</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/11%20Handling%20User%20Input%20with%20Forms/154%20Wrap%20Up.mp4</location>
+			<duration>43328</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>152</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/11%20Handling%20User%20Input%20with%20Forms/155%20Module%20Resources%20%20Useful%20Links.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>153</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/12%20Using%20and%20Creating%20Directives/156%20Module%20Introduction.mp4</location>
+			<duration>53526</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>154</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/12%20Using%20and%20Creating%20Directives/157%20Understanding%20Directives.mp4</location>
+			<duration>214678</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>155</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/12%20Using%20and%20Creating%20Directives/158%20How%20Directives%20Work%20-%20Hook%20Functions.mp4</location>
+			<duration>148651</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>156</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/12%20Using%20and%20Creating%20Directives/159%20Creating%20a%20Simple%20Directive.mp4</location>
+			<duration>82155</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>157</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/12%20Using%20and%20Creating%20Directives/160%20Passing%20Values%20to%20Custom%20Directives.mp4</location>
+			<duration>68736</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>158</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/12%20Using%20and%20Creating%20Directives/161%20Passing%20Arguments%20to%20Custom%20Directives.mp4</location>
+			<duration>160299</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>159</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/12%20Using%20and%20Creating%20Directives/162%20Modifying%20a%20Custom%20Directive%20with%20Modifiers.mp4</location>
+			<duration>144982</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>160</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/12%20Using%20and%20Creating%20Directives/163%20Custom%20Directives%20-%20A%20Summary.mp4</location>
+			<duration>28822</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>161</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/12%20Using%20and%20Creating%20Directives/164%20Registering%20Directives%20Locally.mp4</location>
+			<duration>97472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>162</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/12%20Using%20and%20Creating%20Directives/165%20Using%20Multiple%20Modifiers.mp4</location>
+			<duration>267947</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>163</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/12%20Using%20and%20Creating%20Directives/166%20Passing%20more%20Complex%20Values%20to%20Directives.mp4</location>
+			<duration>133675</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>164</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/12%20Using%20and%20Creating%20Directives/167%20Wrap%20Up.mp4</location>
+			<duration>44374</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>165</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/12%20Using%20and%20Creating%20Directives/168%20Module%20Resources%20%20Useful%20Links.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>166</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/13%20Improving%20your%20App%20with%20Filters%20and%20Mixins/169%20Module%20Introduction.mp4</location>
+			<duration>45376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>167</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/13%20Improving%20your%20App%20with%20Filters%20and%20Mixins/170%20Creating%20a%20Local%20Filter.mp4</location>
+			<duration>272278</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>168</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/13%20Improving%20your%20App%20with%20Filters%20and%20Mixins/171%20Global%20Filters%20and%20How%20to%20Chain%20Multiple%20Filters.mp4</location>
+			<duration>105067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>169</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/13%20Improving%20your%20App%20with%20Filters%20and%20Mixins/172%20An%20often-times%20better%20Alternative%20to%20Filters%20Computed%20Properties.mp4</location>
+			<duration>315158</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>170</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/13%20Improving%20your%20App%20with%20Filters%20and%20Mixins/173%20Understanding%20Mixins.mp4</location>
+			<duration>143616</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>171</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/13%20Improving%20your%20App%20with%20Filters%20and%20Mixins/174%20Creating%20and%20Using%20Mixins.mp4</location>
+			<duration>145579</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>172</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/13%20Improving%20your%20App%20with%20Filters%20and%20Mixins/175%20How%20Mixins%20get%20Merged.mp4</location>
+			<duration>178006</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>173</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/13%20Improving%20your%20App%20with%20Filters%20and%20Mixins/176%20Creating%20a%20Global%20Mixin%20Special%20Case.mp4</location>
+			<duration>206208</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>174</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/13%20Improving%20your%20App%20with%20Filters%20and%20Mixins/177%20Mixins%20and%20Scope.mp4</location>
+			<duration>153963</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>175</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/13%20Improving%20your%20App%20with%20Filters%20and%20Mixins/178%20Wrap%20Up.mp4</location>
+			<duration>116459</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>176</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/13%20Improving%20your%20App%20with%20Filters%20and%20Mixins/179%20Module%20Resources%20%20Useful%20Links.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>177</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
@@ -1120,5 +1376,42 @@
 		<vlc:item tid="138"/>
 		<vlc:item tid="139"/>
 		<vlc:item tid="140"/>
+		<vlc:item tid="141"/>
+		<vlc:item tid="142"/>
+		<vlc:item tid="143"/>
+		<vlc:item tid="144"/>
+		<vlc:item tid="145"/>
+		<vlc:item tid="146"/>
+		<vlc:item tid="147"/>
+		<vlc:item tid="148"/>
+		<vlc:item tid="149"/>
+		<vlc:item tid="150"/>
+		<vlc:item tid="151"/>
+		<vlc:item tid="152"/>
+		<vlc:item tid="153"/>
+		<vlc:item tid="154"/>
+		<vlc:item tid="155"/>
+		<vlc:item tid="156"/>
+		<vlc:item tid="157"/>
+		<vlc:item tid="158"/>
+		<vlc:item tid="159"/>
+		<vlc:item tid="160"/>
+		<vlc:item tid="161"/>
+		<vlc:item tid="162"/>
+		<vlc:item tid="163"/>
+		<vlc:item tid="164"/>
+		<vlc:item tid="165"/>
+		<vlc:item tid="166"/>
+		<vlc:item tid="167"/>
+		<vlc:item tid="168"/>
+		<vlc:item tid="169"/>
+		<vlc:item tid="170"/>
+		<vlc:item tid="171"/>
+		<vlc:item tid="172"/>
+		<vlc:item tid="173"/>
+		<vlc:item tid="174"/>
+		<vlc:item tid="175"/>
+		<vlc:item tid="176"/>
+		<vlc:item tid="177"/>
 	</extension>
 </playlist>
