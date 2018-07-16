@@ -4,6 +4,7 @@
       <h1>Filters and mixins</h1>
       <p>{{ text | to-uppercase | to-lowercase }}</p>
       <hr>
+      <button @click="fruits.push('Berries')">Add New Item</button>
       <input v-model="filterText">
       <ul>
         <li v-for="fruit in filteredFruits">{{ fruit }}</li>
