@@ -1233,6 +1233,200 @@
 				<vlc:id>177</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/180%20Module%20Introduction.mp4</location>
+			<duration>68715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>178</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/181%20Understanding%20Transitions.mp4</location>
+			<duration>61440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>179</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/182%20Preparing%20Code%20to%20use%20Transitions.mp4</location>
+			<duration>191360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>180</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/183%20Setting%20Up%20a%20Transition.mp4</location>
+			<duration>189163</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>181</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/184%20Assigning%20CSS%20Classes%20for%20Transitions.mp4</location>
+			<duration>147286</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>182</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/185%20Creating%20a%20Fade%20Transition%20with%20the%20CSS%20Transition%20Property.mp4</location>
+			<duration>201899</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>183</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/186%20Creating%20a%20Slide%20Transition%20with%20the%20CSS%20Animation%20Property.mp4</location>
+			<duration>239104</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>184</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/187%20Mixing%20Transition%20and%20Animation%20Properties.mp4</location>
+			<duration>211606</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>185</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/188%20Animating%20v-if%20and%20v-show.mp4</location>
+			<duration>33771</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>186</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/189%20Setting%20Up%20an%20Initial%20on-load%20Animation.mp4</location>
+			<duration>90667</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>187</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/190%20Using%20Different%20CSS%20Class%20Names.mp4</location>
+			<duration>241536</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>188</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/191%20Using%20Dynamic%20Names%20and%20Attributes.mp4</location>
+			<duration>153131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>189</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/192%20Transitioning%20between%20Multiple%20Elements%20Theory.mp4</location>
+			<duration>34198</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>190</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/193%20Transitioning%20between%20Multiple%20Elements%20Practice.mp4</location>
+			<duration>282944</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>191</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/194%20Listening%20to%20Transition%20Event%20Hooks.mp4</location>
+			<duration>126038</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>192</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/195%20Understanding%20JavaScript%20Animations.mp4</location>
+			<duration>483392</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>193</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/196%20Excluding%20CSS%20from%20your%20Animation.mp4</location>
+			<duration>88192</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>194</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/197%20Creating%20an%20Animation%20in%20JavaScript.mp4</location>
+			<duration>378646</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>195</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/198%20Animating%20Dynamic%20Components.mp4</location>
+			<duration>357952</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>196</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/199%20Animating%20Lists%20with%20transition-group.mp4</location>
+			<duration>44075</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>197</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/200%20Using%20transition-group%20-%20Preparations.mp4</location>
+			<duration>260224</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>198</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/201%20Using%20transition-group%20to%20Animate%20a%20List.mp4</location>
+			<duration>372672</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>199</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/202%20Understanding%20the%20App.mp4</location>
+			<duration>75136</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>200</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/203%20Creating%20the%20App.mp4</location>
+			<duration>724502</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>201</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/204%20Adding%20Animations.mp4</location>
+			<duration>398528</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>202</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/205%20Wrap%20Up.mp4</location>
+			<duration>63403</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>203</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/206%20Module%20Resources%20%20Useful%20Links.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>204</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/14%20Adding%20Animations%20and%20Transitions/207%20The%20Animated%20Monster%20Slayer%20App.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>205</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
@@ -1413,5 +1607,33 @@
 		<vlc:item tid="175"/>
 		<vlc:item tid="176"/>
 		<vlc:item tid="177"/>
+		<vlc:item tid="178"/>
+		<vlc:item tid="179"/>
+		<vlc:item tid="180"/>
+		<vlc:item tid="181"/>
+		<vlc:item tid="182"/>
+		<vlc:item tid="183"/>
+		<vlc:item tid="184"/>
+		<vlc:item tid="185"/>
+		<vlc:item tid="186"/>
+		<vlc:item tid="187"/>
+		<vlc:item tid="188"/>
+		<vlc:item tid="189"/>
+		<vlc:item tid="190"/>
+		<vlc:item tid="191"/>
+		<vlc:item tid="192"/>
+		<vlc:item tid="193"/>
+		<vlc:item tid="194"/>
+		<vlc:item tid="195"/>
+		<vlc:item tid="196"/>
+		<vlc:item tid="197"/>
+		<vlc:item tid="198"/>
+		<vlc:item tid="199"/>
+		<vlc:item tid="200"/>
+		<vlc:item tid="201"/>
+		<vlc:item tid="202"/>
+		<vlc:item tid="203"/>
+		<vlc:item tid="204"/>
+		<vlc:item tid="205"/>
 	</extension>
 </playlist>
