@@ -9,7 +9,7 @@ Vue.filter('to-lowercase', function(value) {
 
 Vue.mixin({
   created() {
-    console.log('global mixin created hook');
+    // console.log('global mixin created hook');
   }
 });
 
