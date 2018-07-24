@@ -1427,6 +1427,97 @@
 				<vlc:id>205</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/15%20Connecting%20to%20Servers%20via%20Http%20-%20Using%20vue-resource/208%20Module%20Introduction.mp4</location>
+			<duration>102336</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>206</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/15%20Connecting%20to%20Servers%20via%20Http%20-%20Using%20vue-resource/209%20Accessing%20Http%20via%20vue-resource%20-%20Setup.mp4</location>
+			<duration>240704</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>207</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/15%20Connecting%20to%20Servers%20via%20Http%20-%20Using%20vue-resource/210%20Creating%20an%20Application%20and%20Setting%20Up%20a%20Server%20Firebase.mp4</location>
+			<duration>324736</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>208</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/15%20Connecting%20to%20Servers%20via%20Http%20-%20Using%20vue-resource/211%20POSTing%20Data%20to%20a%20Server%20Sending%20a%20POST%20Request.mp4</location>
+			<duration>370347</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>209</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/15%20Connecting%20to%20Servers%20via%20Http%20-%20Using%20vue-resource/212%20GETting%20and%20Transforming%20Data%20Sending%20a%20GET%20Request.mp4</location>
+			<duration>414891</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>210</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/15%20Connecting%20to%20Servers%20via%20Http%20-%20Using%20vue-resource/213%20Configuring%20vue-resource%20Globally.mp4</location>
+			<duration>168640</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>211</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/15%20Connecting%20to%20Servers%20via%20Http%20-%20Using%20vue-resource/214%20Intercepting%20Requests.mp4</location>
+			<duration>214059</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>212</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/15%20Connecting%20to%20Servers%20via%20Http%20-%20Using%20vue-resource/215%20Intercepting%20Responses.mp4</location>
+			<duration>171606</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>213</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/15%20Connecting%20to%20Servers%20via%20Http%20-%20Using%20vue-resource/216%20Where%20the%20resource%20in%20vue-resource%20Comes%20From.mp4</location>
+			<duration>282262</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>214</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/15%20Connecting%20to%20Servers%20via%20Http%20-%20Using%20vue-resource/217%20Creating%20Custom%20Resources.mp4</location>
+			<duration>159190</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>215</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/15%20Connecting%20to%20Servers%20via%20Http%20-%20Using%20vue-resource/218%20Resources%20vs%20Normal%20Http%20Requests.mp4</location>
+			<duration>28054</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>216</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/15%20Connecting%20to%20Servers%20via%20Http%20-%20Using%20vue-resource/219%20Understanding%20Template%20URLs.mp4</location>
+			<duration>306048</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>217</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/15%20Connecting%20to%20Servers%20via%20Http%20-%20Using%20vue-resource/220%20Wrap%20Up.mp4</location>
+			<duration>102379</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>218</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
@@ -1635,5 +1726,18 @@
 		<vlc:item tid="203"/>
 		<vlc:item tid="204"/>
 		<vlc:item tid="205"/>
+		<vlc:item tid="206"/>
+		<vlc:item tid="207"/>
+		<vlc:item tid="208"/>
+		<vlc:item tid="209"/>
+		<vlc:item tid="210"/>
+		<vlc:item tid="211"/>
+		<vlc:item tid="212"/>
+		<vlc:item tid="213"/>
+		<vlc:item tid="214"/>
+		<vlc:item tid="215"/>
+		<vlc:item tid="216"/>
+		<vlc:item tid="217"/>
+		<vlc:item tid="218"/>
 	</extension>
 </playlist>
