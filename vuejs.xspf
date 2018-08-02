@@ -1518,6 +1518,194 @@
 				<vlc:id>218</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/222%20Module%20Introduction.mp4</location>
+			<duration>98006</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>219</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/223%20Setting%20up%20the%20VueJS%20Router%20vue-router.mp4</location>
+			<duration>136683</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>220</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/224%20Setting%20Up%20and%20Loading%20Routes.mp4</location>
+			<duration>403947</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>221</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/225%20Understanding%20Routing%20Modes%20Hash%20vs%20History.mp4</location>
+			<duration>254955</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>222</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/226%20Navigating%20with%20Router%20Links.mp4</location>
+			<duration>225728</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>223</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/227%20Where%20am%20I%20-%20Styling%20Active%20Links.mp4</location>
+			<duration>200363</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>224</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/228%20Navigating%20from%20Code%20Imperative%20Navigation.mp4</location>
+			<duration>162496</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>225</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/229%20Setting%20Up%20Route%20Parameters.mp4</location>
+			<duration>119531</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>226</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/230%20Fetching%20and%20Using%20Route%20Parameters.mp4</location>
+			<duration>123286</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>227</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/231%20Reacting%20to%20Changes%20in%20Route%20Parameters.mp4</location>
+			<duration>184811</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>228</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/232%20Setting%20Up%20Child%20Routes%20Nested%20Routes.mp4</location>
+			<duration>279872</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>229</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/233%20Navigating%20to%20Nested%20Routes.mp4</location>
+			<duration>189696</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>230</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/234%20Making%20Router%20Links%20more%20Dynamic.mp4</location>
+			<duration>124395</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>231</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/235%20A%20Better%20Way%20of%20Creating%20Links%20-%20With%20Named%20Routes.mp4</location>
+			<duration>201707</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>232</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/236%20Using%20Query%20Parameters.mp4</location>
+			<duration>174379</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>233</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/237%20Multiple%20Router%20Views%20Named%20Router%20Views.mp4</location>
+			<duration>207872</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>234</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/238%20Redirecting.mp4</location>
+			<duration>133334</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>235</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/239%20Setting%20Up%20Catch%20All%20Routes%20%20Wildcards.mp4</location>
+			<duration>66176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>236</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/240%20Animating%20Route%20Transitions.mp4</location>
+			<duration>154923</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>237</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/241%20Passing%20the%20Hash%20Fragment.mp4</location>
+			<duration>208406</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>238</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/242%20Controlling%20the%20Scroll%20Behavior.mp4</location>
+			<duration>201814</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>239</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/243%20Protecting%20Routes%20with%20Guards.mp4</location>
+			<duration>73216</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>240</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/244%20Using%20the%20beforeEnter%20Guard.mp4</location>
+			<duration>471211</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>241</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/245%20Using%20the%20beforeLeave%20Guard.mp4</location>
+			<duration>211371</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>242</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/246%20Loading%20Routes%20Lazily.mp4</location>
+			<duration>428630</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>243</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/247%20Wrap%20Up.mp4</location>
+			<duration>62827</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>244</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/16%20Routing%20in%20a%20VueJS%20Application/248%20Module%20Resources%20%20Useful%20Links.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>245</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
@@ -1739,5 +1927,32 @@
 		<vlc:item tid="216"/>
 		<vlc:item tid="217"/>
 		<vlc:item tid="218"/>
+		<vlc:item tid="219"/>
+		<vlc:item tid="220"/>
+		<vlc:item tid="221"/>
+		<vlc:item tid="222"/>
+		<vlc:item tid="223"/>
+		<vlc:item tid="224"/>
+		<vlc:item tid="225"/>
+		<vlc:item tid="226"/>
+		<vlc:item tid="227"/>
+		<vlc:item tid="228"/>
+		<vlc:item tid="229"/>
+		<vlc:item tid="230"/>
+		<vlc:item tid="231"/>
+		<vlc:item tid="232"/>
+		<vlc:item tid="233"/>
+		<vlc:item tid="234"/>
+		<vlc:item tid="235"/>
+		<vlc:item tid="236"/>
+		<vlc:item tid="237"/>
+		<vlc:item tid="238"/>
+		<vlc:item tid="239"/>
+		<vlc:item tid="240"/>
+		<vlc:item tid="241"/>
+		<vlc:item tid="242"/>
+		<vlc:item tid="243"/>
+		<vlc:item tid="244"/>
+		<vlc:item tid="245"/>
 	</extension>
 </playlist>
