@@ -1706,6 +1706,165 @@
 				<vlc:id>245</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/249%20Module%20Introduction.mp4</location>
+			<duration>72640</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>246</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/250%20Why%20a%20Different%20State%20Management%20May%20Be%20Needed.mp4</location>
+			<duration>145174</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>247</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/251%20Understanding%20Centralized%20State.mp4</location>
+			<duration>92288</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>248</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/252%20Using%20the%20Centralized%20State.mp4</location>
+			<duration>409835</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>249</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/253%20Why%20a%20Centralized%20State%20Alone%20Wont%20Fix%20It.mp4</location>
+			<duration>161600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>250</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/254%20Understanding%20Getters.mp4</location>
+			<duration>48726</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>251</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/255%20Using%20Getters.mp4</location>
+			<duration>160470</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>252</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/256%20Mapping%20Getters%20to%20Properties.mp4</location>
+			<duration>417387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>253</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/257%20Understanding%20Mutations.mp4</location>
+			<duration>74838</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>254</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/258%20Using%20Mutations.mp4</location>
+			<duration>291094</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>255</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/259%20Why%20Mutations%20have%20to%20run%20Synchronously.mp4</location>
+			<duration>94806</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>256</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/260%20How%20Actions%20improve%20Mutations.mp4</location>
+			<duration>92886</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>257</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/261%20Using%20Actions.mp4</location>
+			<duration>299776</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>258</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/262%20Mapping%20Actions%20to%20Methods.mp4</location>
+			<duration>298006</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>259</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/263%20A%20Summary%20of%20Vuex.mp4</location>
+			<duration>254080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>260</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/264%20Two-Way-Binding%20v-model%20and%20Vuex.mp4</location>
+			<duration>356630</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>261</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/265%20Improving%20Folder%20Structures.mp4</location>
+			<duration>61355</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>262</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/266%20Modularizing%20the%20State%20Management.mp4</location>
+			<duration>296299</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>263</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/267%20Using%20Separate%20Files.mp4</location>
+			<duration>258070</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>264</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/268%20Using%20Namespaces%20to%20Avoid%20Naming%20Problems.mp4</location>
+			<duration>404715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>265</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/269%20Auto-namespacing%20with%20Vuex%202.1.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>266</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/270%20Wrap%20Up.mp4</location>
+			<duration>50966</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>267</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/17%20Better%20State%20Management%20with%20Vuex/271%20Module%20Resources%20%20Useful%20Links.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>268</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
@@ -1954,5 +2113,28 @@
 		<vlc:item tid="243"/>
 		<vlc:item tid="244"/>
 		<vlc:item tid="245"/>
+		<vlc:item tid="246"/>
+		<vlc:item tid="247"/>
+		<vlc:item tid="248"/>
+		<vlc:item tid="249"/>
+		<vlc:item tid="250"/>
+		<vlc:item tid="251"/>
+		<vlc:item tid="252"/>
+		<vlc:item tid="253"/>
+		<vlc:item tid="254"/>
+		<vlc:item tid="255"/>
+		<vlc:item tid="256"/>
+		<vlc:item tid="257"/>
+		<vlc:item tid="258"/>
+		<vlc:item tid="259"/>
+		<vlc:item tid="260"/>
+		<vlc:item tid="261"/>
+		<vlc:item tid="262"/>
+		<vlc:item tid="263"/>
+		<vlc:item tid="264"/>
+		<vlc:item tid="265"/>
+		<vlc:item tid="266"/>
+		<vlc:item tid="267"/>
+		<vlc:item tid="268"/>
 	</extension>
 </playlist>
