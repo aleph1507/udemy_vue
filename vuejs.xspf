@@ -1865,6 +1865,181 @@
 				<vlc:id>268</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/272%20Project%20Introduction.mp4</location>
+			<duration>191296</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>269</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/273%20Project%20Setup%20and%20Planning.mp4</location>
+			<duration>165696</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>270</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/274%20Creating%20the%20First%20Components.mp4</location>
+			<duration>175787</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>271</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/275%20Setup%20Project%20Routes.mp4</location>
+			<duration>282411</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>272</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/276%20Adding%20a%20Header%20and%20Navigation.mp4</location>
+			<duration>404203</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>273</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/277%20Planning%20the%20Next%20Steps.mp4</location>
+			<duration>82027</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>274</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/278%20Creating%20Stocks%20Components.mp4</location>
+			<duration>391360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>275</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/279%20Adding%20a%20Buy%20Button.mp4</location>
+			<duration>357227</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>276</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/280%20Setting%20up%20the%20Vuex%20State%20Management.mp4</location>
+			<duration>621099</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>277</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/281%20Adding%20a%20Portfolio%20Module%20to%20Vuex.mp4</location>
+			<duration>602304</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>278</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/282%20Working%20on%20the%20Portfolio%20Stocks.mp4</location>
+			<duration>411520</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>279</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/283%20Connecting%20the%20Portfolio%20with%20Vuex.mp4</location>
+			<duration>141718</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>280</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/284%20Time%20to%20fix%20some%20Errors.mp4</location>
+			<duration>120256</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>281</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/285%20Displaying%20the%20Funds.mp4</location>
+			<duration>221291</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>282</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/286%20Adding%20some%20Order%20Checks.mp4</location>
+			<duration>341078</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>283</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/287%20Making%20Funds%20Look%20Nicer%20with%20Filters.mp4</location>
+			<duration>108054</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>284</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/288%20Ending%20the%20Day%20-%20Randomizing%20Stocks.mp4</location>
+			<duration>330304</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>285</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/289%20Animating%20the%20Route%20Transitions.mp4</location>
+			<duration>194454</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>286</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/290%20Saving%20%20Fetching%20Data%20-%20Adding%20a%20Dropdown.mp4</location>
+			<duration>137771</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>287</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/291%20Setting%20up%20vue-resource%20and%20Firebase.mp4</location>
+			<duration>136064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>288</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/292%20Saving%20Data%20PUT%20Request.mp4</location>
+			<duration>171584</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>289</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/293%20Fetching%20Data%20GET%20Request.mp4</location>
+			<duration>304107</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>290</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/294%20Testing%20and%20Bug%20Fixes.mp4</location>
+			<duration>170368</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>291</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/295%20Project%20Wrap%20Up.mp4</location>
+			<duration>82048</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>292</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/Data/t1/vuejs/18%20Final%20Project%20-%20The%20Stock%20Trader/296%20Bonus%20Debugging%20Vuex%20with%20Vue%20Developer%20Tools.mp4</location>
+			<duration>119296</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>293</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
@@ -2136,5 +2311,30 @@
 		<vlc:item tid="266"/>
 		<vlc:item tid="267"/>
 		<vlc:item tid="268"/>
+		<vlc:item tid="269"/>
+		<vlc:item tid="270"/>
+		<vlc:item tid="271"/>
+		<vlc:item tid="272"/>
+		<vlc:item tid="273"/>
+		<vlc:item tid="274"/>
+		<vlc:item tid="275"/>
+		<vlc:item tid="276"/>
+		<vlc:item tid="277"/>
+		<vlc:item tid="278"/>
+		<vlc:item tid="279"/>
+		<vlc:item tid="280"/>
+		<vlc:item tid="281"/>
+		<vlc:item tid="282"/>
+		<vlc:item tid="283"/>
+		<vlc:item tid="284"/>
+		<vlc:item tid="285"/>
+		<vlc:item tid="286"/>
+		<vlc:item tid="287"/>
+		<vlc:item tid="288"/>
+		<vlc:item tid="289"/>
+		<vlc:item tid="290"/>
+		<vlc:item tid="291"/>
+		<vlc:item tid="292"/>
+		<vlc:item tid="293"/>
 	</extension>
 </playlist>
